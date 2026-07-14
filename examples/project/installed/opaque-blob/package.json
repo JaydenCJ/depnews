@@ -1,0 +1,7 @@
+{
+  "name": "opaque-blob",
+  "version": "1.2.0",
+  "description": "Binary blob container that ships no changelog (fictional fixture for the depnews examples)",
+  "license": "MIT",
+  "homepage": "https://example.test/opaque-blob"
+}

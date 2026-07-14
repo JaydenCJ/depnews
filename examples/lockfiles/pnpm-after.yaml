@@ -1,0 +1,24 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@demo/router':
+        specifier: ^3.2.0
+        version: 3.2.0
+      tarline:
+        specifier: ^2.1.0
+        version: 2.1.0
+
+packages:
+
+  '@demo/router@3.2.0':
+    resolution: {integrity: sha512-demo0router0320}
+
+  'tarline@2.1.0':
+    resolution: {integrity: sha512-tarline0210}

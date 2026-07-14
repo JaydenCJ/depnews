@@ -1,0 +1,7 @@
+{
+  "name": "slug-forge",
+  "version": "1.0.1",
+  "description": "URL slug generator with Unicode smarts (fictional fixture for the depnews examples)",
+  "license": "MIT",
+  "homepage": "https://example.test/slug-forge"
+}

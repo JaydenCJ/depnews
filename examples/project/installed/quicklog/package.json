@@ -1,0 +1,7 @@
+{
+  "name": "quicklog",
+  "version": "2.4.3",
+  "description": "Structured console logger with zero configuration (fictional fixture for the depnews examples)",
+  "license": "MIT",
+  "homepage": "https://example.test/quicklog"
+}

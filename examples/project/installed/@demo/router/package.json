@@ -1,0 +1,7 @@
+{
+  "name": "@demo/router",
+  "version": "3.2.0",
+  "description": "Tiny client-side router (fictional fixture for the depnews examples)",
+  "license": "MIT",
+  "homepage": "https://example.test/demo-router"
+}

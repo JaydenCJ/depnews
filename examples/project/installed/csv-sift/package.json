@@ -1,0 +1,7 @@
+{
+  "name": "csv-sift",
+  "version": "2.0.0",
+  "description": "Streaming CSV filter with a tiny sifting DSL (fictional fixture for the depnews examples)",
+  "license": "MIT",
+  "homepage": "https://example.test/csv-sift"
+}

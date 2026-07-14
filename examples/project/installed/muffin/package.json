@@ -1,0 +1,7 @@
+{
+  "name": "muffin",
+  "version": "0.3.2",
+  "description": "Crumb-free template baker (fictional fixture for the depnews examples; unchanged between the two lockfiles, so it never appears in the digest)",
+  "license": "MIT",
+  "homepage": "https://example.test/muffin"
+}
