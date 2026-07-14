@@ -2,7 +2,7 @@
   "name": "depnews",
   "version": "0.1.0",
   "description": "Digests the changelogs of every package that moved in your lockfile diff, read straight from node_modules. No API calls, no bot.",
-  "author": "JaydenCJ",
+  "author": "JaydenCJ <aisingioro.kiyon@gmail.com>",
   "license": "MIT",
   "type": "module",
   "bin": {
